@@ -1,0 +1,2 @@
+NodeJs - 18
+Angular - 15
